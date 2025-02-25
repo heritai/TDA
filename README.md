@@ -104,3 +104,5 @@ matplotlib
 ## Conclusion
 
 The project demonstrates the effectiveness of Persistent Images as a tool for geometric inference and classification, as well as the advantages and disadvantages to related approaches. The results shows PIs are theoretically weaker than PLs (stability), but they can run much faster. Further research can be conducted to implement faster and stabler models that work in real-world situations.
+
+**More details on persistent images:**  Adams, Henry, et al. "Persistence images: A stable vector representation of persistent homology." Journal of Machine Learning Research 18.8 (2017): 1-35. [See here](https://www.jmlr.org/papers/volume18/16-337/16-337.pdf)
